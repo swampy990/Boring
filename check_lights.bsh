@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+set -e
+
+declare -i N=0
+
+while (( N < 10000 ))
+   do
+    echo "I've said hello $N times"
+     (( N = N + 1 ))
+    sleep 1
+   done
+
+
+

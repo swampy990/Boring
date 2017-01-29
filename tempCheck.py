@@ -1,4 +1,5 @@
-#! python3
+#! /Library/Frameworks/Python.framework/Versions/3.5/bin/python3
+
 
 # quickWeather.py - prints the weather for a given location from the command line
 
